@@ -1,0 +1,10 @@
+/cache
+/physical_printer
+/shapes
+/sla_material
+/sla_print
+/snapshots
+/ui_layout
+/vendor
+SuperSlicer.ini
+.DS_Store
